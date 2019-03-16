@@ -6,3 +6,7 @@ non player character within a three life span. Once, the player lost all the liv
 The player can interact with the virtual environment to collect items, interact with NPCs', lose health and switch to different maps.
 
 ## Schematic
+![](schematic.png)
+
+## Demo
+[RPG Game Demo](https://www.youtube.com/watch?v=cmRb3UpQEDo&feature=youtu.be)
